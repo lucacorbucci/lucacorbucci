@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**lucacorbucci/lucacorbucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://lucacorbucci.me">Luca Corbucci.</a></strong>
+</h1>
+<p align="center">
+  <a href="https://lucacorbucci.me">Website</a> •
+  <a href="https://twitter.com/lucacorbucci">Twitter</a> •
+  <a href="https://www.linkedin.com/in/lucacorbucci/">Linkedin</a> •
+  <a href="https://medium.com/@Tankado95">Medium</a>
+</p>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Pisa, Tuscany, Italy  
+🎓 Computer Science student @ University of Pisa.  
+🎙 Podcaster @ <a href="http://pointerpodcast.it">PointerPodcast</a>  
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C | C++ | Dart |
+- 🤓 &nbsp; Keras | Pandas | Numpy | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS |
+- 🛢 &nbsp; MongoDB |
+- 🔧 &nbsp; Git | Markdown | Latex |
+- 🖥 &nbsp; Photoshop | Audition
