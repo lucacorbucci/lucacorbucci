@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; Python | Java | C | C++ | Dart |
 - 🤓 &nbsp; Keras | Pandas | Numpy | 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS |
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter
 - 🛢 &nbsp; MongoDB |
 - 🔧 &nbsp; Git | Markdown | Latex |
 - 🖥 &nbsp; Photoshop | Audition
