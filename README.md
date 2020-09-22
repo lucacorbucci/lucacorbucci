@@ -18,6 +18,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C | C++ | Dart |
+- 📱 &nbsp; Flutter
 - 🤓 &nbsp; Keras | Pandas | Numpy | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter
 - 🛢 &nbsp; MongoDB |
