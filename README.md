@@ -21,6 +21,6 @@
 - 📱 &nbsp; Flutter
 - 🤓 &nbsp; Keras | Pandas | Numpy | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter
-- 🛢 &nbsp; MongoDB |
+- 🛢 &nbsp; MongoDB 
 - 🔧 &nbsp; Git | Markdown | Latex |
 - 🖥 &nbsp; Photoshop | Audition
