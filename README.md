@@ -11,16 +11,22 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 📌 Pisa, Tuscany, Italy  
-🎓 Computer Science student @ University of Pisa.  
 🎙 Podcaster @ <a href="http://pointerpodcast.it">PointerPodcast</a>  
 
 
-<h3>🛠 Tech Stack</h3>
+### :mortar_board: Education 
+| |                                                   |                            |               |   |
+|-|---------------------------------------------------|----------------------------|---------------|---|
+| :brain: | MSc in Computer Science (Data and Knowledge: Science and Technologies) | University of Pisa         | (Pisa, Italy) | :it:  |
+| :computer: | BSc in Computer Science                           | University of Pisa         | (Pisa, Italy) | :it:  |
 
-- 💻 &nbsp; Python | Java | C | C++ | Dart |
-- 📱 &nbsp; Flutter
-- 🤓 &nbsp; Keras | Pandas | Numpy | 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter
-- 🛢 &nbsp; MongoDB 
-- 🔧 &nbsp; Git | Markdown | Latex |
-- 🖥 &nbsp; Photoshop | Audition
+### Visiting
+| |                                                   |                            |               |   |
+|-|---------------------------------------------------|----------------------------|---------------|---|
+| :robot: | :eu: Erasmus+ Study  | Techinical University of Munich | (Munich, Germany) | :de:  |
+
+### :factory: :man_scientist:  Industry Experience
+| | | | | |
+|-|-|-|-|-|
+| :satellite: | Flutter Developer | Tocket | Remote | :it: |
+
