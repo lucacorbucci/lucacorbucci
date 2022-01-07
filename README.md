@@ -5,7 +5,7 @@
   <a href="https://lucacorbucci.me">Website</a> •
   <a href="https://twitter.com/lucacorbucci">Twitter</a> •
   <a href="https://www.linkedin.com/in/lucacorbucci/">Linkedin</a> •
-  <a href="https://medium.com/@Tankado95">Medium</a>
+  <a href="https://lucacorbucci.medium.com/">Medium</a>
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
