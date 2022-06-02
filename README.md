@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://lucacorbucci.me">Luca Corbucci.</a></strong>
+<h1 align="center"><strong> Hello There, I'm <a href="https://lucacorbucci.me">Luca Corbucci.</a></strong>
 </h1>
 <p align="center">
   <a href="https://lucacorbucci.me">Website</a> •
