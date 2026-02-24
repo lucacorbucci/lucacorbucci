@@ -8,8 +8,6 @@
   <a href="https://bsky.app/profile/lucacorbucci.bsky.social">Bluesky</a>
 </p>
 
-<h1 align="center"><strong> I’m currently looking for new opportunities (postdoc or research scientist roles) in Trustworthy and Safe AI.</a></strong>
-</h1> 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
