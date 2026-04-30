@@ -5,12 +5,13 @@
   <a href="https://lucacorbucci.me">Website</a> •
   <a href="https://mastodon.cloud/@lucacorbucci">Mastodon</a> •
   <a href="https://www.linkedin.com/in/lucacorbucci/">Linkedin</a> •
-  <a href="https://bsky.app/profile/lucacorbucci.bsky.social">Bluesky</a>
+  <a href="https://bsky.app/profile/lucacorbucci.bsky.social">Bluesky</a> •
   <a href="https://scholar.google.com/citations?user=TXjmMzAAAAAJ&hl=it&authuser=1">Scholar</a>
 </p>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 * 💻 I am a postdoctoral researcher at the MT Unit of FBK in Trento. I am working on Multimodal LLMs. 
 * 🧑🏻‍🎓 I hold a PhD in Computer Science from the University of Pisa. My research focused on AI Safety, with a specific emphasis on creating more private and fair Federated Learning systems.
 * 💼 During my PhD, I spent a year as a research intern at Telefónica Research in Barcelona, Spain 🇪🇸.
